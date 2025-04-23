@@ -11,7 +11,7 @@ Este repositório reúne exercícios e pequenos projetos realizados durante meus
 ## Sobre mim
 Sou estudante de Gestão da Tecnologia da Informação pela Uniasselvi (2024–2026), com foco em Administração de Banco de Dados. Estou construindo meu portfólio profissional com dedicação e foco total no aprendizado.
 
-[LinkedIn](www.linkedin.com/in/ana-ludimilla-dos-santos-03498a1a2)  
+[LinkedIn](www.linkedin.com/in/ana-pereira-dba)  
 
 ## Projeto 1 – Banco de Dados Loja de Livros
 
