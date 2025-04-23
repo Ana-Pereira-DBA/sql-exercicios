@@ -12,3 +12,13 @@ Este repositório reúne exercícios e pequenos projetos realizados durante meus
 Sou estudante de Gestão da Tecnologia da Informação pela Uniasselvi (2024–2026), com foco em Administração de Banco de Dados. Estou construindo meu portfólio profissional com dedicação e foco total no aprendizado.
 
 [LinkedIn](www.linkedin.com/in/ana-ludimilla-dos-santos-03498a1a2)  
+
+## Projeto 1 – Banco de Dados Loja de Livros
+
+Este projeto simula um sistema de pedidos de uma loja de livros.
+
+- Criação de tabelas: clientes, livros, pedidos
+- Inserção de dados fictícios
+- Consultas com `JOIN`, `ORDER BY` e relacionamentos entre tabelas
+
+Arquivo: [`banco_loja_livros.sql`](banco_loja_livros.sql)
