@@ -45,5 +45,5 @@ O banco de dados `db_loja_virtual` contém as seguintes tabelas:
 
 ## Status
 
-✅ Projeto em andamento e pronto para testes e análises!
+Projeto em andamento e pronto para testes e análises!
 
