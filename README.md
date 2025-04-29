@@ -22,3 +22,17 @@ Este projeto simula um sistema de pedidos de uma loja de livros.
 - Consultas com `JOIN`, `ORDER BY` e relacionamentos entre tabelas
 
 Arquivo: [`banco_loja_livros.sql`](banco_loja_livros.sql)
+
+## Projeto 2 – Banco de Dados Loja Virtual
+
+Este projeto simula o sistema de vendas de uma loja virtual com clientes, produtos e pedidos.
+
+**Inclui:**
+- Criação das tabelas: `clientes`, `produtos`, `vendas`, `itens_venda`
+- Inserção de dados fictícios representando compras e produtos
+- Consultas SQL com `JOIN`, subqueries, filtros e ordenações
+- Implementação de uma `TRIGGER` para atualizar o estoque automaticamente após uma venda
+- Criação de `ÍNDICES` para otimizar as consultas
+
+📁 Arquivos disponíveis na pasta: [`/loja_virtual`](https://github.com/Ana-Pereira-DBA/sql-exercicios/tree/main/loja_virtual)
+
