@@ -27,16 +27,13 @@ O banco de dados `db_loja_virtual` contém as seguintes tabelas:
 
 ## Arquivos disponíveis
 
-| Arquivo | Descrição |
-|--------|-----------|
-| `01_criacao_estrutura.sql` | Criação das tabelas com chaves primárias e estrangeiras |
-| `02_insercao_dados.sql` | Inserção de dados de exemplo nas tabelas |
-| `03_consultas.sql` | Consultas utilizando `JOIN`, subqueries e filtros |
-| `04_trigger_estoque.sql` | Trigger que atualiza o estoque automaticamente após venda |
-| `05_indices.sql` | Criação de índices para melhorar performance das consultas |
+- [`01_criacao_estrutura.sql`](https://github.com/Ana-Pereira-DBA/sql-exercicios/blob/main/loja_virtual/01_criacao_estrutura.sql): Criação do banco de dados e das tabelas com chaves primárias e estrangeiras.
+- [`02_insercao_dados.sql`](https://github.com/Ana-Pereira-DBA/sql-exercicios/blob/main/loja_virtual/02_insercao_dados.sql): Inserção de dados nas tabelas `clientes`, `produtos`, `vendas` e `itens_venda`.
+- [`03_consultas.sql`](https://github.com/Ana-Pereira-DBA/sql-exercicios/blob/main/loja_virtual/03_consultas.sql): Consultas com `JOIN`, subqueries e filtros.
+- [`04_trigger_estoque.sql`](https://github.com/Ana-Pereira-DBA/sql-exercicios/blob/main/loja_virtual/04_trigger_estoque.sql): Trigger para atualização automática do estoque após uma venda.
+- [`05_indices.sql`](https://github.com/Ana-Pereira-DBA/sql-exercicios/blob/main/loja_virtual/05_indices.sql): Criação de índices para melhorar o desempenho das consultas.
 
 ---
-
 ## Tecnologias utilizadas
 
 - MySQL
