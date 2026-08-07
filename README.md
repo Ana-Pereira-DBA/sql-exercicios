@@ -36,7 +36,7 @@ Este projeto simula o sistema de vendas de uma loja virtual com clientes, produt
 
 📁 Arquivos disponíveis na pasta: [`/loja_virtual`](https://github.com/Ana-Pereira-DBA/sql-exercicios/tree/main/loja_virtual)
 
-## Projeto 2 – conectar o Python ao mysql;
+## Projeto 3 – conectar o Python ao mysql;
 
 **Inclui:**
 - Criação automática de clientes
